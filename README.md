@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @chanduboddu
-- 👀 I’m interested in MEAN/MERN Stack
-- 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
